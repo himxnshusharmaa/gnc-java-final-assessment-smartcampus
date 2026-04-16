@@ -1,6 +1,8 @@
 # SmartCampus System (GNC College Final Assessment)
 
 **Author:** Himanshu Sharma  
+            Section: C | Branch: CSE AIML
+            College: GNC College
 **Repository:** `gnc-java-final-assessment-smartcampus`
 
 ## 📖 Problem Statement
@@ -13,6 +15,9 @@ The objective of this project is to build a Smart Campus Management System to ma
 4. **Multithreading:** Built an `HsEnrollmentProcessor` thread. When a student enrolls, the thread simulates a background network request asynchronously, keeping the main menu responsive.
 5. **File Handling (Bonus):** Uses `ObjectOutputStream` and `ObjectInputStream` to save all state data locally to a `.dat` file, ensuring no data is lost upon exit.
 6. **UNIQUE FEATURE (Himanshu's Scholarship Logic):** A custom business logic layer inside the "View Enrollments" module that detects if a student is enrolled in multiple courses and automatically applies a 10% scholarship discount to their total fees.
+
+ ## Final Output
+
 
 ## ⚙️ How to Run
 1. Ensure Java (JDK 8 or higher) is installed.

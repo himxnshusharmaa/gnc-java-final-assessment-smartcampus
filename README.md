@@ -17,6 +17,7 @@ The objective of this project is to build a Smart Campus Management System to ma
 6. **UNIQUE FEATURE (Himanshu's Scholarship Logic):** A custom business logic layer inside the "View Enrollments" module that detects if a student is enrolled in multiple courses and automatically applies a 10% scholarship discount to their total fees.
 
  ## Final Output
+ ![Final System Output](Screenshots/finaloutput.jpeg)
 
 
 ## ⚙️ How to Run

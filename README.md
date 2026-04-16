@@ -14,13 +14,6 @@ The objective of this project is to build a Smart Campus Management System to ma
 5. **File Handling (Bonus):** Uses `ObjectOutputStream` and `ObjectInputStream` to save all state data locally to a `.dat` file, ensuring no data is lost upon exit.
 6. **UNIQUE FEATURE (Himanshu's Scholarship Logic):** A custom business logic layer inside the "View Enrollments" module that detects if a student is enrolled in multiple courses and automatically applies a 10% scholarship discount to their total fees.
 
-## 💻 Output Screenshots
-*(Note: Replace this section with actual screenshots of your console once you run the code)*
-* Screenshot 1: Adding a student and course.
-* Screenshot 2: Catching a custom exception (e.g., negative fee).
-* Screenshot 3: The Async Thread printing "success" while the main menu is active.
-* Screenshot 4: Applying the 10% Multi-Course Scholarship.
-
 ## ⚙️ How to Run
 1. Ensure Java (JDK 8 or higher) is installed.
 2. Compile the code: `javac HimanshuSmartCampusMain.java`
